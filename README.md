@@ -1,7 +1,7 @@
 # Introduction
 - This dataset has information of 100k orders from 2016 to 2018 made at an e-commerce webiste in Brazil. 
 - Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
-- After a detailed analysis using **SQL (Bigquery)** here are the insights and recommendations : 
+- Using GCP's Bigquery for SQL and data studio here are the insights and recommendations : 
 
 # Actionable Insights 
 - The dataset consists of ~1 Lakh customers who have made orders from Sep’16 to Oct’18 coming from 27 different states of Brazil.
